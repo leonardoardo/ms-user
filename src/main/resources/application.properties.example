@@ -1,0 +1,10 @@
+spring.application.name=user
+server.port=8081
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=
+
+spring.rabbitmq.addresses=
+broker.queue.email.name=
