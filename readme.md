@@ -3,9 +3,10 @@
 ## Arquitetura de Ports and Adapters
 
 ### Tecnologias usadas
-- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) PostgreSQL
-- ![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg) Spring Boot
-- ![RabbitMQ](https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg) RabbitMQ
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100" height="100" alt="PostgreSQL"/> PostgreSQL
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="100" height="100" alt="Spring Boot"/> Spring Boot
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="100" height="100" alt="RabbitMQ"/> RabbitMQ
+
 
 ### Rotas
 
