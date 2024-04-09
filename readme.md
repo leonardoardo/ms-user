@@ -18,6 +18,7 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="typescript" width="40" height="40" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fleonardoardo%2Fms-user?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleonardoardo%2Fms-user.svg?type=shield"/></a>
     <a href="https://www.postgresql.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
   </a>
@@ -56,3 +57,7 @@
 #### Deletar Usuário por ID
 - **DELETE /{id}**: Deleta um usuário pelo seu UUID.
   - Parâmetro de URL: `id` (UUID do usuário).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleonardoardo%2Fms-user.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleonardoardo%2Fms-user?ref=badge_large)
