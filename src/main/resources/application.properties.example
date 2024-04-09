@@ -10,3 +10,7 @@ springdoc.swagger-ui.path=
 
 spring.rabbitmq.addresses=
 broker.queue.email.name=
+
+management.endpoint.beans.cache.time-to-live=10s
+management.endpoints.web.base-path=/api
+management.endpoints.web.path-mapping.health=health
