@@ -6,5 +6,7 @@ spring.datasource.username=
 spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=
 
+springdoc.swagger-ui.path=
+
 spring.rabbitmq.addresses=
 broker.queue.email.name=
