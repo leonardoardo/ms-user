@@ -1,4 +1,4 @@
-package com.ms.user.application.adapters.controller;
+package com.ms.user.application.controller;
 
 import java.util.List;
 import java.util.UUID;
